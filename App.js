@@ -4,7 +4,7 @@ import { View, Text, FlatList, TouchableOpacity, ToastAndroid } from "react-nati
 export default App = ()=>
 {
 
-  const [PointOne , SetPointOne] = useState("Hi I Am Vishal");
+  const [PointOne , SetPointOne] = useState("upload new file on git hub");
   const [PointTwo ,  SetPointTwo] = useState("");
   const [PointThree, SetPointThree] = useState([
     {
