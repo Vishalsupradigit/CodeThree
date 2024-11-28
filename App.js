@@ -14,7 +14,7 @@ export default App = ()=>
       location : "Mumbai"
     },
     {
-    location : "Thane to kalyan"
+    location : "Thane to kalyan all new state"
     },
     {
       location : "Apply gir hub new push msg upload now"
