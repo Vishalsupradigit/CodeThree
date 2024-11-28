@@ -19,6 +19,10 @@ export default App = ()=>
     {
       location : "Apply gir hub new push msg upload now"
       }
+      ,
+    {
+      location : "Test One Call Git hub"
+      }
   ])
 
 
