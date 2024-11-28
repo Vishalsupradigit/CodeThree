@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.102" height="20" viewBox="0 0 20.102 20">
+    <g data-name="Group 10004">
+        <g data-name="Group 9804">
+            <path data-name="Subtraction 2" d="M4.607 15.61a.333.333 0 0 1-.172-.047.338.338 0 0 1-.182-.3v-3.4h-2.9A1.383 1.383 0 0 1 0 10.48V1.365A1.36 1.36 0 0 1 1.352 0h15.007a1.357 1.357 0 0 1 1.354 1.357v2.427a5.469 5.469 0 0 0-.7-.3V1.357a.659.659 0 0 0-.652-.664H1.352a.668.668 0 0 0-.652.664v9.123a.673.673 0 0 0 .654.675h3.26a.32.32 0 0 1 .34.329v3.137L9.533 11.7a6.524 6.524 0 0 0 .34.634L4.8 15.563a.305.305 0 0 1-.193.047z" style="stroke:#6d6d6d;stroke-width:.2px;fill:#6d6d6d" transform="translate(.1 2.499)"/>
+            <path data-name="Path 25995" d="M5 0a5 5 0 1 1-5 5 5 5 0 0 1 5-5z" transform="translate(10.102 6.664)" style="fill:#fff"/>
+            <path data-name="Path 25995 - Outline" d="M5 .833A4.167 4.167 0 1 0 9.167 5 4.171 4.171 0 0 0 5 .833M5 0a5 5 0 1 1-5 5 5 5 0 0 1 5-5z" transform="translate(10.102 6.664)" style="fill:#6d6d6d"/>
+            <g data-name="Path 2244" style="fill:#6d6d6d">
+                <path d="M2 4.245V2.5H.25a.25.25 0 0 1 0-.5H2V.25a.25.25 0 0 1 .5 0V2h1.745a.25.25 0 1 1 0 .5H2.5v1.745a.25.25 0 1 1-.5 0z" style="stroke:none" transform="translate(12.856 9.417)"/>
+                <path d="M2.247 4.494a.25.25 0 0 1-.25-.25V2.498H.25a.25.25 0 0 1 0-.5h1.748V.25a.25.25 0 0 1 .499 0v1.748h1.748a.25.25 0 0 1 0 .499H2.497v1.748a.25.25 0 0 1-.25.25z" style="fill:#6d6d6d;stroke:none" transform="translate(12.856 9.417)"/>
+            </g>
+        </g>
+    </g>
+</svg>

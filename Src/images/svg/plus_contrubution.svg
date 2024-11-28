@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+    <defs>
+        <filter id="5wdrsws9fa" x="0" y="0" width="30" height="30" filterUnits="userSpaceOnUse">
+            <feOffset dy="1"/>
+            <feGaussianBlur stdDeviation="1" result="blur"/>
+            <feFlood flood-color="#2476b7" flood-opacity=".302"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-name="Group 173">
+        <g style="filter:url(#5wdrsws9fa)">
+            <circle data-name="Ellipse 158" cx="12" cy="12" r="12" transform="translate(3 2)" style="fill:#2476b7"/>
+        </g>
+        <g data-name="Group 130">
+            <g data-name="Group 110">
+                <path data-name="Path 251" d="M.548 0A.521.521 0 0 1 1.1.49v9.978a.521.521 0 0 1-.548.49.521.521 0 0 1-.552-.49V.49A.521.521 0 0 1 .548 0z" transform="translate(14.421 8.52)" style="fill:#fff"/>
+                <path data-name="Path 252" d="M.548 0A.521.521 0 0 1 1.1.49v9.978a.521.521 0 0 1-.548.49.521.521 0 0 1-.552-.49V.49A.521.521 0 0 1 .548 0z" transform="rotate(90 3.498 16.98)" style="fill:#fff"/>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<!-- <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <g data-name="Group 6016">
+        <g data-name="Layer 2">
+            <path data-name="Path 7" d="M7 14a.636.636 0 0 1-.45-.186L.186 7.45a.636.636 0 0 1 0-.9L6.55.186a.636.636 0 1 1 .9.9L1.536 7l5.914 5.914A.636.636 0 0 1 7 14z" style="fill:#2476b7;stroke:#2476b7;stroke-width:.5px" transform="rotate(180 6.818 8.5)"/>
+        </g>
+    </g>
+</svg> -->
+
+
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <g data-name="Group 6016">
+        <g data-name="Layer 2">
+            <path data-name="Path 7" d="M7 14a.636.636 0 0 1-.45-.186L.186 7.45a.636.636 0 0 1 0-.9L6.55.186a.636.636 0 1 1 .9.9L1.536 7l5.914 5.914A.636.636 0 0 1 7 14z" style="fill:#707070;stroke:#707070;stroke-width:.5px" transform="rotate(180 6.818 8.5)"/>
+        </g>
+    </g>
+</svg>
+

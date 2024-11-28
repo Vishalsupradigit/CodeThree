@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 52 52">
+    <defs>
+        <filter id="a" x="0" y="0" width="52" height="52" filterUnits="userSpaceOnUse">
+            <feOffset dy="2"/>
+            <feGaussianBlur stdDeviation="2" result="blur"/>
+            <feFlood flood-color="#056360" flood-opacity=".6"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="c" x="15" y="12" width="21.999" height="21.999" filterUnits="userSpaceOnUse">
+            <feOffset dy="-1"/>
+            <feGaussianBlur stdDeviation="1" result="blur-2"/>
+            <feFlood flood-color="#044d4a"/>
+            <feComposite operator="in" in2="blur-2"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <linearGradient id="b" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#056360"/>
+            <stop offset="1" stop-color="#109c98"/>
+        </linearGradient>
+    </defs>
+    <g data-name="Component 12 – 1">
+        <g style="filter:url(#a)">
+            <path data-name="Path 20677" d="M20 0A20 20 0 1 1 0 20 20 20 0 0 1 20 0z" transform="translate(6 3.999)" style="fill:url(#b)"/>
+        </g>
+        <path data-name="Intersection 1" d="M-9631.6-530.5A20 20 0 0 1-9614-541a20 20 0 0 1 17.6 10.5A20 20 0 0 1-9614-520a20 20 0 0 1-17.6-10.5z" transform="translate(9640 545)" style="opacity:.19;fill:#fff"/>
+        <g style="filter:url(#c)">
+            <path data-name="Union 11" d="M-9467 13V7h-6a1 1 0 0 1-1-1 1 1 0 0 1 1-1h6v-6a1 1 0 0 1 1-1 1 1 0 0 1 1 1v6h6a1 1 0 0 1 1 1 1 1 0 0 1-1 1h-6v6a1 1 0 0 1-1 1 1 1 0 0 1-1-1z" transform="translate(9492 17.999)" style="fill:#fff"/>
+        </g>
+    </g>
+</svg>

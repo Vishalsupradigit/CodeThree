@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+    <g data-name="Group 126">
+        <g data-name="Group 6451">
+            <path data-name="Path 20843" d="M228.22 257.971H178.4a3.4 3.4 0 0 1-3.4-3.4V227.4a3.4 3.4 0 0 1 3.4-3.4h49.82a3.4 3.4 0 0 1 3.4 3.4v27.176a3.4 3.4 0 0 1-3.4 3.395zm-49.82-31.706a1.134 1.134 0 0 0-1.132 1.132v27.176a1.134 1.134 0 0 0 1.132 1.132h49.82a1.134 1.134 0 0 0 1.132-1.132V227.4a1.134 1.134 0 0 0-1.132-1.132z" transform="translate(-173 -203.146)" style="fill:#2476b7"/>
+            <path data-name="Path 20844" d="M231 280h18.118v2.265H231z" transform="translate(-219.941 -250.087)" style="fill:#2476b7"/>
+            <path data-name="Path 20845" d="M231 378h4.529v2.265H231z" transform="translate(-219.941 -332.234)" style="fill:#2476b7"/>
+            <path data-name="Path 20846" d="M273 378h4.529v2.265H273z" transform="translate(-255.148 -332.234)" style="fill:#2476b7"/>
+            <path data-name="Path 20847" d="M231 308h23.779v2.265H231z" transform="translate(-219.941 -273.558)" style="fill:#2476b7"/>
+            <path data-name="Path 20848" d="M250.558 180.662h-2.265V178.4a1.134 1.134 0 0 0-1.132-1.132H206.4a1.134 1.134 0 0 0-1.132 1.132v2.265H203V178.4a3.4 3.4 0 0 1 3.4-3.4h40.764a3.4 3.4 0 0 1 3.4 3.4z" transform="translate(-196.471 -162.072)" style="fill:#707070"/>
+            <path data-name="Path 20849" d="M269.5 131.662h-2.265V129.4a1.134 1.134 0 0 0-1.132-1.132H234.4a1.134 1.134 0 0 0-1.132 1.132v2.265H231V129.4a3.4 3.4 0 0 1 3.4-3.4h31.7a3.4 3.4 0 0 1 3.4 3.4z" transform="translate(-219.941 -121)" style="fill:#707070"/>
+        </g>
+    </g>
+</svg>

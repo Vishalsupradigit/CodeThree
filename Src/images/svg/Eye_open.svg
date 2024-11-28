@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="78" height="78" viewBox="0 0 78 78">
+    <defs>
+        <filter id="w32xxrkl8a" x="0" y="0" width="78" height="78" filterUnits="userSpaceOnUse">
+            <feOffset dy="5"/>
+            <feGaussianBlur stdDeviation="3" result="blur"/>
+            <feFlood flood-color="#d5e8f3" flood-opacity=".2"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-name="Component 113 – 16">
+        <g style="filter:url(#w32xxrkl8a)">
+            <path data-name="Path 24" d="M30 0A30 30 0 1 1 0 30 30 30 0 0 1 30 0z" transform="translate(9 4)" style="fill:#F7F7F9"/>
+        </g>
+        <g data-name="Group 6005">
+            <path data-name="Path 850" d="M23.064 30.881a4 4 0 1 0 4 4 4.005 4.005 0 0 0-4-4zm0 7.075a3.074 3.074 0 1 1 3.074-3.074 3.078 3.078 0 0 1-3.074 3.074zm11.843-3.343a14.59 14.59 0 0 0-11.843-6.486 14.59 14.59 0 0 0-11.843 6.486l-.191.269.191.269a14.589 14.589 0 0 0 11.843 6.486 14.589 14.589 0 0 0 11.843-6.487l.191-.269zm-11.843 6.1a13.613 13.613 0 0 1-10.893-5.828 13.614 13.614 0 0 1 10.893-5.828 13.614 13.614 0 0 1 10.893 5.828 13.613 13.613 0 0 1-10.893 5.824z" transform="translate(15.969 -.56)" style="fill:#707070"/>
+        </g>
+    </g>
+</svg>
